@@ -1,1 +1,1 @@
-with detailed comments for the methodology of SPOC
+Scripts with detailed comments for the methodology of SPOC
