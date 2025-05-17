@@ -1,1 +1,1 @@
-Scripts with detailed comments for the methodology of SPOC
+Notes and scripts with detailed comments for the dataset and methodology of SPOC
